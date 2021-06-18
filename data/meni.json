@@ -1,0 +1,30 @@
+[
+{
+    "id":1,
+    "stavke":"Home",
+    "link":"index.html"
+},
+{
+    "id":2,
+    "stavke":"O nama",
+    "link":"#onama"
+},
+{
+    "id":3,
+    "stavke":"Majstori",
+    "link":"#majstori"
+},
+
+
+{
+    "id":4,
+    "stavke":"Kontakt",
+    "link":"#termin"
+},
+
+{
+    "id":5,
+    "stavke":"Omiljeno",
+    "link":"checkout.html"
+}
+]

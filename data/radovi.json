@@ -1,0 +1,382 @@
+[
+    {
+        "id":1,
+        "boja":"crnobelo",
+        
+
+        "slika":{
+            "putanja":"img/slika4.png",
+            "alt":"Tetovaza 1"
+        },
+        "naziv":"A Tetovaza",
+        "cena":100,
+        "opis":"Ova tetovaza je bla, bla, bla",
+        "majstor":{
+            "ime":"Igor",
+            "prezime":"Djuric",
+            "id":1
+        }
+    },
+    {
+        "id":2,
+        "boja":"crnobelo",
+        "slika":{
+            "putanja":"img/slika5.png",
+            "alt":"Tetovaza 2"
+        },
+        "naziv":"M Tetovaza",
+        "cena":90,
+        "opis":"Ova tetovaza je bla, bla, bla",
+        "majstor":{
+            "ime":"Igor",
+            "prezime":"Djuric",
+            "id":1
+        }
+    },
+    {
+        "id":3,
+        "boja":"uboji",
+        "slika":{
+            "putanja":"img/slika6.png",
+            "alt":"Tetovaza 2"
+        },
+        "naziv":"L Tetovaza",
+        "cena":200,
+        "opis":"Ova tetovaza je bla, bla, bla",
+        "majstor":{
+            "ime":"Igor",
+            "prezime":"Djuric",
+            "id":1
+        }},
+        {
+            "id":4,
+            "boja":"uboji",
+            "slika":{
+                "putanja":"img/slika7.png",
+                "alt":"Tetovaza 2"
+            },
+            "naziv":"B Tetovaza",
+            "cena":300,
+            "opis":"Ova tetovaza je bla, bla, bla",
+            "majstor":{
+                "ime":"Igor",
+                "prezime":"Djuric",
+                "id":1
+            }},
+            {
+                "id":5,
+                "boja":"uboji",
+                "slika":{
+                    "putanja":"img/slika9.png",
+                    "alt":"Tetovaza 2"
+                },
+                "naziv":"C Tetovaza",
+                "cena":250,
+                "opis":"Ova tetovaza je bla, bla, bla",
+                "majstor":{
+                    "ime":"Marko",
+                    "prezime":"Peric",
+                    "id":2
+                }},
+                {
+                    "id":6,
+                    "boja":"uboji",
+                    "slika":{
+                        "putanja":"img/slika2.png",
+                        "alt":"Tetovaza 2"
+                    },
+                    "naziv":"N Tetovaza",
+                    "cena":120,
+                    "opis":"Ova tetovaza je bla, bla, bla",
+                    "majstor":{
+                        "ime":"Igor",
+                        "prezime":"Djuric",
+                        "id":2
+                    }},
+                    {
+                        "id":7,
+                        "boja":"uboji",
+                        "slika":{
+                            "putanja":"img/slika19.png",
+                            "alt":"Tetovaza 2"
+                        },
+                        "naziv":"D Tetovaza",
+                        "cena":100,
+                        "opis":"Ova tetovaza je bla, bla, bla",
+                        "majstor":{
+                            "ime":"Marko",
+                            "prezime":"Peric",
+                            "id":2
+                        }},
+                        {
+                            "id":8,
+                            "boja":"uboji",
+                            "slika":{
+                                "putanja":"img/slika20.png",
+                                "alt":"Tetovaza 2"
+                            },
+                            "naziv":"P Tetovaza",
+                            "cena":100,
+                            "opis":"Ova tetovaza je bla, bla, bla",
+                            "majstor":{
+                                "ime":"Marko",
+                                "prezime":"Peric",
+                                "id":2
+                                
+                            }},
+                            {
+                                "id":9,
+                                "boja":"uboji",
+                                "slika":{
+                                    "putanja":"img/slika14.png",
+                                    "alt":"Tetovaza 2"
+                                },
+                                "naziv":"O Tetovaza",
+                                "cena":130,
+                                "opis":"Ova tetovaza je bla, bla, bla",
+                                "majstor":{
+                                    "ime":"Vladan",
+                                    "prezime":"Bozinovic",
+                                    "id":"3"
+                                }},
+
+                                {
+                                    "id":10,
+                                    "boja":"uboji",
+                                    "slika":{
+                                        "putanja":"img/slika13.png",
+                                        "alt":"Tetovaza 2"
+                                    },
+                                    "naziv":"J Tetovaza",
+                                    "cena":180,
+                                    "opis":"Ova tetovaza je bla, bla, bla",
+                                    "majstor":{
+                                        "ime":"Vladan",
+                                        "prezime":"Bozinovic",
+                                        "id":"3"
+                                    }},
+
+                                    {
+                                        "id":11,
+                                        "boja":"uboji",
+                                        "slika":{
+                                            "putanja":"img/slika16.png",
+                                            "alt":"Tetovaza 2"
+                                        },
+                                        "naziv":"I Tetovaza",
+                                        "cena":100,
+                                        "opis":"Ova tetovaza je bla, bla, bla",
+                                        "majstor":{
+                                            "ime":"Vladan",
+                                            "prezime":"Bozinovic",
+                                            "id":"3"
+                                        }},
+                                        {
+                                            "id":12,
+                                            "boja":"uboji",
+                                            "slika":{
+                                                "putanja":"img/slika15.png",
+                                                "alt":"Tetovaza 2"
+                                            },
+                                            "naziv":"V Tetovaza",
+                                            "cena":170,
+                                            "opis":"Ova tetovaza je bla, bla, bla",
+                                            "majstor":{
+                                                "ime":"Vladan",
+                                                "prezime":"Bozinovic",
+                                                "id":"3"
+                                            }},
+                                            {
+                                                "id":13,
+                                                "boja":"uboji",
+                                                "slika":{
+                                                    "putanja":"img/slika4.png",
+                                                    "alt":"Tetovaza 1"
+                                                },
+                                                "naziv":"Whalter White",
+                                                "cena":100,
+                                                "opis":"Ova tetovaza je bla, bla, bla",
+                                                "majstor":{
+                                                    "ime":"Igor",
+                                                    "prezime":"Djuric",
+                                                    "id":1
+                                                }
+                                            },
+                                            {
+                                                "id":14,
+                                                "boja":"uboji",
+                                                "slika":{
+                                                    "putanja":"img/slika4.png",
+                                                    "alt":"Tetovaza 1"
+                                                },
+                                                "naziv":"Whalter White",
+                                                "cena":100,
+                                                "opis":"Ova tetovaza je bla, bla, bla",
+                                                "majstor":{
+                                                    "ime":"Igor",
+                                                    "prezime":"Djuric",
+                                                    "id":1
+                                                }
+                                            },
+
+                                            {
+                                                "id":15,
+                                                "boja":"uboji",
+                                                "slika":{
+                                                    "putanja":"img/slika4.png",
+                                                    "alt":"Tetovaza 1"
+                                                },
+                                                "naziv":"Whalter White",
+                                                "cena":200,
+                                                "opis":"Ova tetovaza je bla, bla, bla",
+                                                "majstor":{
+                                                    "ime":"Igor",
+                                                    "prezime":"Djuric",
+                                                    "id":2
+                                                }
+                                            },
+                                            {
+                                                "id":16,
+                                                "boja":"uboji",
+                                                "slika":{
+                                                    "putanja":"img/slika6.png",
+                                                    "alt":"Tetovaza 2"
+                                                },
+                                                "naziv":"Whalter White",
+                                                "cena":100,
+                                                "opis":"Ova tetovaza je bla, bla, bla",
+                                                "majstor":{
+                                                    "ime":"Marko",
+                                                    "prezime":"Peric",
+                                                    "id":2
+                                                }},
+                                                {
+                                                    "id":17,
+                                                    "boja":"uboji",
+                                                    "slika":{
+                                                        "putanja":"img/slika10.png",
+                                                        "alt":"Tetovaza 2"
+                                                    },
+                                                    "naziv":"Whalter White",
+                                                    "cena":100,
+                                                    "opis":"Ova tetovaza je bla, bla, bla",
+                                                    "majstor":{
+                                                        "ime":"Marko",
+                                                        "prezime":"Peric",
+                                                        "id":2
+                                                    }},
+                                                    {
+                                                        "id":18,
+                                                        "boja":"uboji",
+                                                        "slika":{
+                                                            "putanja":"img/slika10.png",
+                                                            "alt":"Tetovaza 2"
+                                                        },
+                                                        "naziv":"Whalter White",
+                                                        "cena":100,
+                                                        "opis":"Ova tetovaza je bla, bla, bla",
+                                                        "majstor":{
+                                                            "ime":"Marko",
+                                                            "prezime":"Peric",
+                                                            "id":2
+                                                        }},
+                                                        {
+                                                            "id":19,
+                                                            "boja":"uboji",
+                                                            "slika":{
+                                                                "putanja":"img/slika10.png",
+                                                                "alt":"Tetovaza 2"
+                                                            },
+                                                            "naziv":"Whalter White",
+                                                            "cena":100,
+                                                            "opis":"Ova tetovaza je bla, bla, bla",
+                                                            "majstor":{
+                                                                "ime":"Marko",
+                                                                "prezime":"Peric",
+                                                                "id":2
+                                                            }},
+                                                            {
+                                                                "id":20,
+                                                                "boja":"uboji",
+                                                                "slika":{
+                                                                    "putanja":"img/slika10.png",
+                                                                    "alt":"Tetovaza 2"
+                                                                },
+                                                                "naziv":"Whalter White",
+                                                                "cena":100,
+                                                                "opis":"Ova tetovaza je bla, bla, bla",
+                                                                "majstor":{
+                                                                    "ime":"Marko",
+                                                                    "prezime":"Peric",
+                                                                    "id":2
+                                                                }},
+
+                                                                {
+                                                                    "id":21,
+                                                                    "boja":"uboji",
+                                                                    "slika":{
+                                                                        "putanja":"img/slika12.png",
+                                                                        "alt":"Tetovaza 2"
+                                                                    },
+                                                                    "naziv":"Whalter White",
+                                                                    "cena":100,
+                                                                    "opis":"Ova tetovaza je bla, bla, bla",
+                                                                    "majstor":{
+                                                                        "ime":"Vladan",
+                                                                        "prezime":"Bozinovic",
+                                                                        "id":"3"
+                                                                    }},
+                                                                    {
+                                                                        "id":22,
+                                                                        "boja":"uboji",
+                                                                        "slika":{
+                                                                            "putanja":"img/slika12.png",
+                                                                            "alt":"Tetovaza 2"
+                                                                        },
+                                                                        "naziv":"Whalter White",
+                                                                        "cena":100,
+                                                                        "opis":"Ova tetovaza je bla, bla, bla",
+                                                                        "majstor":{
+                                                                            "ime":"Vladan",
+                                                                            "prezime":"Bozinovic",
+                                                                            "id":"3"
+                                                                        }},
+                                                                        {
+                                                                            "id":23,
+                                                                            "boja":"uboji",
+                                                                            "slika":{
+                                                                                "putanja":"img/slika12.png",
+                                                                                "alt":"Tetovaza 2"
+                                                                            },
+                                                                            "naziv":"Whalter White",
+                                                                            "cena":100,
+                                                                            "opis":"Ova tetovaza je bla, bla, bla",
+                                                                            "majstor":{
+                                                                                "ime":"Vladan",
+                                                                                "prezime":"Bozinovic",
+                                                                                "id":"3"
+                                                                            }},
+                                                                            {
+                                                                                "id":24,
+                                                                                "boja":"uboji",
+                                                                                "slika":{
+                                                                                    "putanja":"img/slika12.png",
+                                                                                    "alt":"Tetovaza 2"
+                                                                                },
+                                                                                "naziv":"Whalter White",
+                                                                                "cena":100,
+                                                                                "opis":"Ova tetovaza je bla, bla, bla",
+                                                                                "majstor":{
+                                                                                    "ime":"Vladan",
+                                                                                    "prezime":"Bozinovic",
+                                                                                    "id":"3"
+                                                                                }}
+                            
+                        
+                    
+                
+            
+        
+    
+
+]

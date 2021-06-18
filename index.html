@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tatto studio Nesto</title>
+        <meta name="author" content="Jelena Naumovski">
+        <meta name="keywords" content="Coffee, Poruči, želite, kafa, izaberi, vrstu">
+        <meta name="roobots" content="index, follow"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8"/>
+       
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link href="aos/aos.css" rel="stylesheet">
+        
+       
+        
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="shortcut icon" href="img/ikonica.ico">
+        <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap" rel="stylesheet">
+    </head>
+    <body>
+   
+
+    <div id="naslovna">
+        
+            <div id="logo">
+
+       
+
+        </div>
+        
+        <div id="sredina"></div>
+        <div id="meni" >
+               
+
+       
+
+            </div>
+           
+
+    </div>
+    <div id="onama">
+            <h1>Ko smo mi?</h1>
+            <p style="font-size:2vw;" class="text-center">1988. godine osnovan je Tattoo Ink, prvi legalni tattoo studio u Beogradu, ali i na prostoru bivše „velike države“ - Socijalističke Federativne Republike Jugoslavije.
+              2006. tattoo studio prerasta u Tattoo Ink centar. Između najprometnijih ulica Beograda, u strogom centru grada, i body arta je samo zid stakla. Smeli i dobro osmišljeni koncept na kome bi Beogradu pozavidele i mnoge veće svetske metropole. Cilj Centra je da sruši sve tabue o tetoviranju / piercingu / body art-u.
+              
+              Zaslužno smo upisani na mapu turističke ponude Beograda. Turisti iz Pariza, Londona, Njujorka su nam upisali neke od najlepših komplimenata za naš rad.
+              Umetnost koja se uvlači pod kožu je misija i svakodnevni radni zadatak svih zaposlenih u Centru. Dobrodošli...</p>
+    </div>
+
+    <div id="nesto" class=" container-fluid ">
+        <div class="dropdown pt-5">
+            <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Sortirajte
+            </a>
+          
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+              <a id= "sortiranjeOp"class="dropdown-item" href="index.html">Po ceni opadajuce</a>
+              <a id= "sortiranjeRa" class="dropdown-item" href="#">Po ceni rastuce</a>
+              <a id= "sortiranjeNa" class="dropdown-item" href="#">Po nazivu[A-Z]</a>
+              <a id= "sortiranjeAu" class="dropdown-item" href="#">Po autorima</a>
+            </div>
+
+            <a id="cetirik" class="kolone"><i class="material-icons">view_comfy</i></a>
+            <a id="trik" class="kolone"><i  class="material-icons">view_module</i></a>
+          </div>
+      </div>
+
+      <div ></div>
+
+    <div id="tetovaze" class="container-fluid  d-flex align-items-center card-group">
+      
+              
+                 
+    </div>
+    <div id="vise"><button id="viseb">Prikazi sve autore</button></div>
+
+            
+
+
+     <div id="termin"> <h3>Zakazite svoj terimn</h3> </div>
+     <div id="forma"> 
+            
+      <form method="post" onsubmit="return provera()">
+      <table id="tabela"> 
+          <tr> 
+              
+               <td> <input type="text" placeholder="   Name"  name="ime" id="imei"/>
+                  <p id="greskai"></p>
+              
+              </td>
+          </tr>
+          <tr>
+              
+              <td> <input type="text" placeholder="    E-mail" name="email" id="prezimei"/>
+                  <p id="greskap"></p>
+              
+              </td>
+          </tr>
+          <tr>
+
+          <td> <input type="text" id="datumz">
+              <p id="greskad"></p>
+          
+          
+          </td>
+      </tr>
+          
+          <tr>
+              <td colspan="2"> <textarea  placeholder="    Message" name="pitanje" cols="50" rows="15" id="napomenai"> </textarea>
+                  <p id="greskan"></p>
+              </td>
+              
+          </tr>
+          <tr> 
+              
+              <td> <input type="submit" id="dugme" name="button" value="Send"/></td>
+      </table>
+      </form>
+     
+</div>
+
+<div id="futer"><footer class="page-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">Kontaktirajte nas</h5>
+          <p class="grey-text text-lighten-4"> <i class="material-icons no">phone</i> 065768934</p>
+          <p class="grey-text text-lighten-4"> <i class="material-icons no">location_on</i> Dzordza Vasingtona 52</p>
+          <p class="grey-text text-lighten-4"> <i class="material-icons no">mail</i> tattoonesto@gmail.com</p>
+        </div>
+        <div id="meni2" class="col l4 offset-l2 s12">
+          <h5 class="white-text">Links</h5>
+        
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container">
+      Autor: Jelena Naumovski 262/18 
+      
+      <a class="portfolio text-lighten-4 right" href="https://jelena955.github.io/mojportfolio/">Portfolio</a>
+      </div>
+    </div> 
+  </footer> </div>
+<script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/global.js"></script>
+<script src="js/main.js"></script>
+</body>
+    </html>
